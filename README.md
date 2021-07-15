@@ -28,7 +28,7 @@
  
 　✓ 　Cloud Architecture (GCP, Azure, On-Prem)
  
-　✓ 　 Cloud Native Development (Docker & Kubernetes)
+　✓ 　Cloud Native Development (Docker & Kubernetes)
  
 　✓ 　Enterprise Integration Patterns (PubNub, Kafka, Nats, ZeroMQ...)
  
