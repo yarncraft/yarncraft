@@ -18,18 +18,14 @@
 
 ## My interests:
 
-　✓ 　Internet of Things (MQTT, IIoT Infrastructure, Streaming Analytics)
+　✓ 　Internet of Things (MQTT, Industrial Protocols, Digital Twins)
  
-　✓ 　Artificial Intelligence & Deep Learning
+　✓ 　Deep Learning & Computer Vision
  
-　✓ 　Business Oriented Recommender Systems
+　✓ 　Cloud (Azure, AWS)
  
-　✓ 　Data Analytics & Information Visualisation
+　✓ 　Cloud Native (Openshift & Kubernetes)
  
-　✓ 　Cloud Architecture (GCP, Azure, On-Prem)
+　✓ 　Data Engineering & Analytics
  
-　✓ 　Cloud Native Development (Docker & Kubernetes)
- 
-　✓ 　Enterprise Integration Patterns (PubNub, Kafka, Nats, ZeroMQ...)
- 
-　✓ 　Innovation & Design Thinking
+　✓ 　Technology & Innovation
