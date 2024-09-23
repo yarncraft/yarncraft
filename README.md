@@ -1,7 +1,4 @@
 <div align="center">  
-  <a href="https://www2.deloitte.com/be/en/pages/strategy-operations/topics/core-business-operations.html">
-  <img src="https://github.com/yarncraft/yarncraft/raw/main/deloitte.gif"/> 
-  </a>
   <h1> My development stack </h1>
 </div>
 
